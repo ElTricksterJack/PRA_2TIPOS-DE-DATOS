@@ -1,4 +1,4 @@
-- tipos de variables: Miguel Angel Ruvalcaba Valverde
+- despliege de variables: Miguel Angel Ruvalcaba Valverde
 
 x = ["Magma","Masa","Buddha"]
 y =("Mammut","Blezzar","Sand")
